@@ -1,0 +1,6 @@
+
+➡️ Enlace descarga Visual Studio Community 2019: https://visualstudio.microsoft.com/es/
+
+➡️ Enlace descarga sdk net core: https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install
+
+➡️ Enlace descarga SSMS: https://docs.microsoft.com/es-es/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
